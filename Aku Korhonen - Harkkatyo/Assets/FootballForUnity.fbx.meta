@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: accb3fd6555ccc841bf2a68bd1778a41
+guid: 15839f50db62772489fa92e1fd768525
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -72,7 +72,7 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  importAnimation: 0
+  importAnimation: 1
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2

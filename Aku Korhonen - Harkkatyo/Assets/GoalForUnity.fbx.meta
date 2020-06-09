@@ -1,15 +1,23 @@
 fileFormatVersion: 2
-guid: 4a5139d04a478ac4782ee50fde8dd22e
+guid: 517c6a396080b2f42acc564df8a86c0d
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Plane
+    100004: Tolppa
     400000: //RootNode
+    400002: Plane
+    400004: Tolppa
     2100000: Material.002
     2100002: Material
-    2300000: //RootNode
-    3300000: //RootNode
+    2100004: Material.001
+    2300000: Plane
+    2300002: Tolppa
+    3300000: Plane
+    3300002: Tolppa
     4300000: Tolppa
+    4300002: Plane
   externalObjects: {}
   materials:
     importMaterials: 1
